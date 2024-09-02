@@ -39,7 +39,9 @@ This section provides list of equipment used in project.
 6. 10kΩ Pull-down resistor for button
 7. push button
 8. male to male wires for connections
-NOTE! You can use any arduino controller as long as the processor is at least ATMega328p. ATMega168 does not have enough memory for controlling the display.
+
+NOTE! 
+You can use any arduino controller as long as the processor is at least ATMega328p. ATMega168 does not have enough memory for controlling the display.
       10kΩ Pull-down resistor is not necessary if you use build in resistor. For that you need to make some changes in the code though.
 
 ### Full build
@@ -56,7 +58,9 @@ NOTE! You can use any arduino controller as long as the processor is at least AT
 9. Push button
 10. On/off switch
 11. Wires
-NOTE! I used small plastic box (measurements) as casing that I had laying around. AlkometrinsuutiivisteellaV2.stl contains piece that can fit MQ-3 sensor in the bottom, and with rubber o-ring placed on the circular groove, top side fits to vape nozzle I hac laying around as well. The part is glued into hole drilled to the box. In the future I might just design printable case, but for now this will do.
+
+NOTE! 
+I used small plastic box (measurements) as casing that I had laying around. AlkometrinsuutiivisteellaV2.stl contains piece that can fit MQ-3 sensor in the bottom, and with rubber o-ring placed on the circular groove, top side fits to vape nozzle I hac laying around as well. The part is glued into hole drilled to the box. In the future I might just design printable case, but for now this will do.
 
 ### Scematics
 
